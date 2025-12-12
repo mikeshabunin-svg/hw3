@@ -1,0 +1,329 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mIkhail\\Desktop\\SET4\\AntiPlagiarism.Analysis.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8188F6B4-DFAE-4CD1-87F6-833ABC4B8FA2}|AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api.csproj|c:\\users\\mikhail\\desktop\\set4\\antiplagiarism.analysis.api\\antiplagiarism.analysis.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8188F6B4-DFAE-4CD1-87F6-833ABC4B8FA2}|AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api.csproj|solutionrelative:antiplagiarism.analysis.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8188F6B4-DFAE-4CD1-87F6-833ABC4B8FA2}|AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api.csproj|c:\\users\\mikhail\\desktop\\set4\\antiplagiarism.analysis.api\\antiplagiarism.analysis.api\\antiplagiarism.analysis.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8188F6B4-DFAE-4CD1-87F6-833ABC4B8FA2}|AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api.csproj|solutionrelative:antiplagiarism.analysis.api\\antiplagiarism.analysis.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8188F6B4-DFAE-4CD1-87F6-833ABC4B8FA2}|AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api.csproj|c:\\users\\mikhail\\desktop\\set4\\antiplagiarism.analysis.api\\antiplagiarism.analysis.api\\services\\simpleplagiarismanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8188F6B4-DFAE-4CD1-87F6-833ABC4B8FA2}|AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api.csproj|solutionrelative:antiplagiarism.analysis.api\\services\\simpleplagiarismanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8188F6B4-DFAE-4CD1-87F6-833ABC4B8FA2}|AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api.csproj|c:\\users\\mikhail\\desktop\\set4\\antiplagiarism.analysis.api\\antiplagiarism.analysis.api\\services\\iplagiarismanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8188F6B4-DFAE-4CD1-87F6-833ABC4B8FA2}|AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api.csproj|solutionrelative:antiplagiarism.analysis.api\\services\\iplagiarismanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8188F6B4-DFAE-4CD1-87F6-833ABC4B8FA2}|AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api.csproj|c:\\users\\mikhail\\desktop\\set4\\antiplagiarism.analysis.api\\antiplagiarism.analysis.api\\services\\filestorageclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8188F6B4-DFAE-4CD1-87F6-833ABC4B8FA2}|AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api.csproj|solutionrelative:antiplagiarism.analysis.api\\services\\filestorageclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8188F6B4-DFAE-4CD1-87F6-833ABC4B8FA2}|AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api.csproj|c:\\users\\mikhail\\desktop\\set4\\antiplagiarism.analysis.api\\antiplagiarism.analysis.api\\services\\ifilestorageclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8188F6B4-DFAE-4CD1-87F6-833ABC4B8FA2}|AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api.csproj|solutionrelative:antiplagiarism.analysis.api\\services\\ifilestorageclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8188F6B4-DFAE-4CD1-87F6-833ABC4B8FA2}|AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api.csproj|c:\\users\\mikhail\\desktop\\set4\\antiplagiarism.analysis.api\\antiplagiarism.analysis.api\\services\\inmemoryreportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8188F6B4-DFAE-4CD1-87F6-833ABC4B8FA2}|AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api.csproj|solutionrelative:antiplagiarism.analysis.api\\services\\inmemoryreportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8188F6B4-DFAE-4CD1-87F6-833ABC4B8FA2}|AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api.csproj|c:\\users\\mikhail\\desktop\\set4\\antiplagiarism.analysis.api\\antiplagiarism.analysis.api\\services\\ireportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8188F6B4-DFAE-4CD1-87F6-833ABC4B8FA2}|AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api.csproj|solutionrelative:antiplagiarism.analysis.api\\services\\ireportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8188F6B4-DFAE-4CD1-87F6-833ABC4B8FA2}|AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api.csproj|c:\\users\\mikhail\\desktop\\set4\\antiplagiarism.analysis.api\\antiplagiarism.analysis.api\\services\\inmemorysubmissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8188F6B4-DFAE-4CD1-87F6-833ABC4B8FA2}|AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api.csproj|solutionrelative:antiplagiarism.analysis.api\\services\\inmemorysubmissionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8188F6B4-DFAE-4CD1-87F6-833ABC4B8FA2}|AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api.csproj|c:\\users\\mikhail\\desktop\\set4\\antiplagiarism.analysis.api\\antiplagiarism.analysis.api\\services\\isubmissionrepository.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8188F6B4-DFAE-4CD1-87F6-833ABC4B8FA2}|AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api.csproj|solutionrelative:antiplagiarism.analysis.api\\services\\isubmissionrepository.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8188F6B4-DFAE-4CD1-87F6-833ABC4B8FA2}|AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api.csproj|c:\\users\\mikhail\\desktop\\set4\\antiplagiarism.analysis.api\\antiplagiarism.analysis.api\\contracts\\workreportsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8188F6B4-DFAE-4CD1-87F6-833ABC4B8FA2}|AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api.csproj|solutionrelative:antiplagiarism.analysis.api\\contracts\\workreportsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8188F6B4-DFAE-4CD1-87F6-833ABC4B8FA2}|AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api.csproj|c:\\users\\mikhail\\desktop\\set4\\antiplagiarism.analysis.api\\antiplagiarism.analysis.api\\contracts\\reportresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8188F6B4-DFAE-4CD1-87F6-833ABC4B8FA2}|AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api.csproj|solutionrelative:antiplagiarism.analysis.api\\contracts\\reportresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8188F6B4-DFAE-4CD1-87F6-833ABC4B8FA2}|AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api.csproj|c:\\users\\mikhail\\desktop\\set4\\antiplagiarism.analysis.api\\antiplagiarism.analysis.api\\contracts\\submissionanalysisresponse.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8188F6B4-DFAE-4CD1-87F6-833ABC4B8FA2}|AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api.csproj|solutionrelative:antiplagiarism.analysis.api\\contracts\\submissionanalysisresponse.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8188F6B4-DFAE-4CD1-87F6-833ABC4B8FA2}|AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api.csproj|c:\\users\\mikhail\\desktop\\set4\\antiplagiarism.analysis.api\\antiplagiarism.analysis.api\\contracts\\createsubmissionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8188F6B4-DFAE-4CD1-87F6-833ABC4B8FA2}|AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api.csproj|solutionrelative:antiplagiarism.analysis.api\\contracts\\createsubmissionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8188F6B4-DFAE-4CD1-87F6-833ABC4B8FA2}|AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api.csproj|c:\\users\\mikhail\\desktop\\set4\\antiplagiarism.analysis.api\\antiplagiarism.analysis.api\\models\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8188F6B4-DFAE-4CD1-87F6-833ABC4B8FA2}|AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api.csproj|solutionrelative:antiplagiarism.analysis.api\\models\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8188F6B4-DFAE-4CD1-87F6-833ABC4B8FA2}|AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api.csproj|c:\\users\\mikhail\\desktop\\set4\\antiplagiarism.analysis.api\\antiplagiarism.analysis.api\\models\\submission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8188F6B4-DFAE-4CD1-87F6-833ABC4B8FA2}|AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api.csproj|solutionrelative:antiplagiarism.analysis.api\\models\\submission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8188F6B4-DFAE-4CD1-87F6-833ABC4B8FA2}|AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api.csproj|c:\\users\\mikhail\\desktop\\set4\\antiplagiarism.analysis.api\\antiplagiarism.analysis.api\\models\\submissionstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8188F6B4-DFAE-4CD1-87F6-833ABC4B8FA2}|AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api.csproj|solutionrelative:antiplagiarism.analysis.api\\models\\submissionstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8188F6B4-DFAE-4CD1-87F6-833ABC4B8FA2}|AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api.csproj|c:\\users\\mikhail\\desktop\\set4\\antiplagiarism.analysis.api\\antiplagiarism.analysis.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8188F6B4-DFAE-4CD1-87F6-833ABC4B8FA2}|AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api.csproj|solutionrelative:antiplagiarism.analysis.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8188F6B4-DFAE-4CD1-87F6-833ABC4B8FA2}|AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api.csproj|c:\\users\\mikhail\\desktop\\set4\\antiplagiarism.analysis.api\\antiplagiarism.analysis.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8188F6B4-DFAE-4CD1-87F6-833ABC4B8FA2}|AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api.csproj|solutionrelative:antiplagiarism.analysis.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SimplePlagiarismAnalyzer.cs",
+              "DocumentMoniker": "C:\\Users\\mIkhail\\Desktop\\SET4\\AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api\\Services\\SimplePlagiarismAnalyzer.cs",
+              "RelativeDocumentMoniker": "AntiPlagiarism.Analysis.Api\\Services\\SimplePlagiarismAnalyzer.cs",
+              "ToolTip": "C:\\Users\\mIkhail\\Desktop\\SET4\\AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api\\Services\\SimplePlagiarismAnalyzer.cs",
+              "RelativeToolTip": "AntiPlagiarism.Analysis.Api\\Services\\SimplePlagiarismAnalyzer.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T23:09:46.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPlagiarismAnalyzer.cs",
+              "DocumentMoniker": "C:\\Users\\mIkhail\\Desktop\\SET4\\AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api\\Services\\IPlagiarismAnalyzer.cs",
+              "RelativeDocumentMoniker": "AntiPlagiarism.Analysis.Api\\Services\\IPlagiarismAnalyzer.cs",
+              "ToolTip": "C:\\Users\\mIkhail\\Desktop\\SET4\\AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api\\Services\\IPlagiarismAnalyzer.cs",
+              "RelativeToolTip": "AntiPlagiarism.Analysis.Api\\Services\\IPlagiarismAnalyzer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T23:09:26.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileStorageClient.cs",
+              "DocumentMoniker": "C:\\Users\\mIkhail\\Desktop\\SET4\\AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api\\Services\\FileStorageClient.cs",
+              "RelativeDocumentMoniker": "AntiPlagiarism.Analysis.Api\\Services\\FileStorageClient.cs",
+              "ToolTip": "C:\\Users\\mIkhail\\Desktop\\SET4\\AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api\\Services\\FileStorageClient.cs",
+              "RelativeToolTip": "AntiPlagiarism.Analysis.Api\\Services\\FileStorageClient.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T23:08:52.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IFileStorageClient.cs",
+              "DocumentMoniker": "C:\\Users\\mIkhail\\Desktop\\SET4\\AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api\\Services\\IFileStorageClient.cs",
+              "RelativeDocumentMoniker": "AntiPlagiarism.Analysis.Api\\Services\\IFileStorageClient.cs",
+              "ToolTip": "C:\\Users\\mIkhail\\Desktop\\SET4\\AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api\\Services\\IFileStorageClient.cs",
+              "RelativeToolTip": "AntiPlagiarism.Analysis.Api\\Services\\IFileStorageClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T23:08:20.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AntiPlagiarism.Analysis.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\mIkhail\\Desktop\\SET4\\AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api.csproj",
+              "RelativeDocumentMoniker": "AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api.csproj",
+              "ToolTip": "C:\\Users\\mIkhail\\Desktop\\SET4\\AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api.csproj",
+              "RelativeToolTip": "AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-11T22:43:28.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mIkhail\\Desktop\\SET4\\AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api\\Program.cs",
+              "RelativeDocumentMoniker": "AntiPlagiarism.Analysis.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\mIkhail\\Desktop\\SET4\\AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api\\Program.cs",
+              "RelativeToolTip": "AntiPlagiarism.Analysis.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T22:44:36.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InMemoryReportRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mIkhail\\Desktop\\SET4\\AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api\\Services\\InMemoryReportRepository.cs",
+              "RelativeDocumentMoniker": "AntiPlagiarism.Analysis.Api\\Services\\InMemoryReportRepository.cs",
+              "ToolTip": "C:\\Users\\mIkhail\\Desktop\\SET4\\AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api\\Services\\InMemoryReportRepository.cs",
+              "RelativeToolTip": "AntiPlagiarism.Analysis.Api\\Services\\InMemoryReportRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T23:06:19.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IReportRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mIkhail\\Desktop\\SET4\\AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api\\Services\\IReportRepository.cs",
+              "RelativeDocumentMoniker": "AntiPlagiarism.Analysis.Api\\Services\\IReportRepository.cs",
+              "ToolTip": "C:\\Users\\mIkhail\\Desktop\\SET4\\AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api\\Services\\IReportRepository.cs",
+              "RelativeToolTip": "AntiPlagiarism.Analysis.Api\\Services\\IReportRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T23:05:50.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InMemorySubmissionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mIkhail\\Desktop\\SET4\\AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api\\Services\\InMemorySubmissionRepository.cs",
+              "RelativeDocumentMoniker": "AntiPlagiarism.Analysis.Api\\Services\\InMemorySubmissionRepository.cs",
+              "ToolTip": "C:\\Users\\mIkhail\\Desktop\\SET4\\AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api\\Services\\InMemorySubmissionRepository.cs",
+              "RelativeToolTip": "AntiPlagiarism.Analysis.Api\\Services\\InMemorySubmissionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T22:58:11.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ISubmissionRepository.cs.cs",
+              "DocumentMoniker": "C:\\Users\\mIkhail\\Desktop\\SET4\\AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api\\Services\\ISubmissionRepository.cs.cs",
+              "RelativeDocumentMoniker": "AntiPlagiarism.Analysis.Api\\Services\\ISubmissionRepository.cs.cs",
+              "ToolTip": "C:\\Users\\mIkhail\\Desktop\\SET4\\AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api\\Services\\ISubmissionRepository.cs.cs",
+              "RelativeToolTip": "AntiPlagiarism.Analysis.Api\\Services\\ISubmissionRepository.cs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T22:57:39.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WorkReportsResponse.cs",
+              "DocumentMoniker": "C:\\Users\\mIkhail\\Desktop\\SET4\\AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api\\Contracts\\WorkReportsResponse.cs",
+              "RelativeDocumentMoniker": "AntiPlagiarism.Analysis.Api\\Contracts\\WorkReportsResponse.cs",
+              "ToolTip": "C:\\Users\\mIkhail\\Desktop\\SET4\\AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api\\Contracts\\WorkReportsResponse.cs",
+              "RelativeToolTip": "AntiPlagiarism.Analysis.Api\\Contracts\\WorkReportsResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T22:55:10.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ReportResponse.cs",
+              "DocumentMoniker": "C:\\Users\\mIkhail\\Desktop\\SET4\\AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api\\Contracts\\ReportResponse.cs",
+              "RelativeDocumentMoniker": "AntiPlagiarism.Analysis.Api\\Contracts\\ReportResponse.cs",
+              "ToolTip": "C:\\Users\\mIkhail\\Desktop\\SET4\\AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api\\Contracts\\ReportResponse.cs",
+              "RelativeToolTip": "AntiPlagiarism.Analysis.Api\\Contracts\\ReportResponse.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T22:54:05.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SubmissionAnalysisResponse.cs.cs",
+              "DocumentMoniker": "C:\\Users\\mIkhail\\Desktop\\SET4\\AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api\\Contracts\\SubmissionAnalysisResponse.cs.cs",
+              "RelativeDocumentMoniker": "AntiPlagiarism.Analysis.Api\\Contracts\\SubmissionAnalysisResponse.cs.cs",
+              "ToolTip": "C:\\Users\\mIkhail\\Desktop\\SET4\\AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api\\Contracts\\SubmissionAnalysisResponse.cs.cs",
+              "RelativeToolTip": "AntiPlagiarism.Analysis.Api\\Contracts\\SubmissionAnalysisResponse.cs.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAwwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T22:53:19.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateSubmissionRequest.cs",
+              "DocumentMoniker": "C:\\Users\\mIkhail\\Desktop\\SET4\\AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api\\Contracts\\CreateSubmissionRequest.cs",
+              "RelativeDocumentMoniker": "AntiPlagiarism.Analysis.Api\\Contracts\\CreateSubmissionRequest.cs",
+              "ToolTip": "C:\\Users\\mIkhail\\Desktop\\SET4\\AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api\\Contracts\\CreateSubmissionRequest.cs",
+              "RelativeToolTip": "AntiPlagiarism.Analysis.Api\\Contracts\\CreateSubmissionRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T22:52:58.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Report.cs",
+              "DocumentMoniker": "C:\\Users\\mIkhail\\Desktop\\SET4\\AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api\\Models\\Report.cs",
+              "RelativeDocumentMoniker": "AntiPlagiarism.Analysis.Api\\Models\\Report.cs",
+              "ToolTip": "C:\\Users\\mIkhail\\Desktop\\SET4\\AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api\\Models\\Report.cs",
+              "RelativeToolTip": "AntiPlagiarism.Analysis.Api\\Models\\Report.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T22:48:40.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Submission.cs",
+              "DocumentMoniker": "C:\\Users\\mIkhail\\Desktop\\SET4\\AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api\\Models\\Submission.cs",
+              "RelativeDocumentMoniker": "AntiPlagiarism.Analysis.Api\\Models\\Submission.cs",
+              "ToolTip": "C:\\Users\\mIkhail\\Desktop\\SET4\\AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api\\Models\\Submission.cs",
+              "RelativeToolTip": "AntiPlagiarism.Analysis.Api\\Models\\Submission.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T22:48:17.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SubmissionStatus.cs",
+              "DocumentMoniker": "C:\\Users\\mIkhail\\Desktop\\SET4\\AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api\\Models\\SubmissionStatus.cs",
+              "RelativeDocumentMoniker": "AntiPlagiarism.Analysis.Api\\Models\\SubmissionStatus.cs",
+              "ToolTip": "C:\\Users\\mIkhail\\Desktop\\SET4\\AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api\\Models\\SubmissionStatus.cs",
+              "RelativeToolTip": "AntiPlagiarism.Analysis.Api\\Models\\SubmissionStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T22:47:29.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mIkhail\\Desktop\\SET4\\AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "AntiPlagiarism.Analysis.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\mIkhail\\Desktop\\SET4\\AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api\\appsettings.json",
+              "RelativeToolTip": "AntiPlagiarism.Analysis.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-11T22:44:14.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\mIkhail\\Desktop\\SET4\\AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "AntiPlagiarism.Analysis.Api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\mIkhail\\Desktop\\SET4\\AntiPlagiarism.Analysis.Api\\AntiPlagiarism.Analysis.Api\\appsettings.Development.json",
+              "RelativeToolTip": "AntiPlagiarism.Analysis.Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-11T22:39:46.342Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

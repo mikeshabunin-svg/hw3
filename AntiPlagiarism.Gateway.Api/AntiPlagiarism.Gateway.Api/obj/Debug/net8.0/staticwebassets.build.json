@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "wQvllAVZjtat6Nr0eB12Lr8DGKRhJu3sc4ZSFGJrlvA=",
+  "Source": "AntiPlagiarism.Gateway.Api",
+  "BasePath": "_content/AntiPlagiarism.Gateway.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
